@@ -1,0 +1,114 @@
+.main ul{  padding-left: 0%; flex-direction: column;}
+.main ul li a{
+    margin: 0px 5px;
+    font-size: 20px;
+    font-weight: light;
+}
+.main{height: 75vw;}
+.main ul li{
+    margin: 10px 0px;
+}
+h1{
+    position: absolute;
+    top: 0%;
+    padding-left: 80px;
+    font-size: 25px;
+}
+.text{
+    padding-left: 0px;
+    text-align: left;
+    flex-direction: column;
+    margin: 10px 150px;
+    position: absolute;
+    top: 130px;
+
+}
+.box{
+    margin: 0px 180px;
+    position: absolute;
+    top: 230px;
+}
+.text2{
+    font-size: 25px;
+    flex-direction: column;
+}
+.text3{
+    font-size: 20px;
+    flex-direction: column;
+    text-align: left;
+}
+.card{
+    flex-direction: column;
+}
+.card1{
+    margin: 10px 30px;
+}
+.card2{
+    margin: 10px 30px;
+}
+.card3{
+    margin: 10px 30px;
+}
+.card5{
+    margin: 10px 30px;
+}
+.card6{
+    margin: 10px 30px;
+}
+.card7{
+    margin: 10px 30px;
+}
+.menu{
+    height: 300vh;
+}
+.textaa{
+    text-align: center;
+}
+.text10{
+    margin: 0px 0px;
+    font-size: 30px;
+    height: 10vh;
+}
+.text11{
+    text-align: center;
+    padding-left: 0px;
+    font-size: 15px;
+    flex-direction: column;
+    width: 380px;
+}
+.service{
+height: 60vh;
+}
+.box7{
+    margin: 30px 150px;
+    
+}
+.end{
+    width: 100vw;
+    height: 60vh;
+}
+.text12{
+    padding-left:0px ;
+    flex-direction: column;
+    font-size: 20px;
+    text-align: center;
+    width: 380px;
+}
+.fa-instagram{
+    margin-left: 100px;
+}
+.icon{
+    margin-left: 100px;
+}
+.icon1{
+    margin-left: 100px;
+}
+.fa-phone-volume{
+    margin-left: 0px;
+}
+.fa-envelope{
+    margin-left: 0px;
+}
+.box8{
+    margin: 30px 150px;
+}
